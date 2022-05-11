@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AndroidDashboard</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="first">First</string>
-    <string name="second">Second</string>
-    <string name="third">Third</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="setting">Setting</string>
 </resources>
